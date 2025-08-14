@@ -1,15 +1,15 @@
 {
-  "name": "time-savers",
-  "version": "2.6.6",
-  "repository": "github.com/luminous-software/time-savers",
-  "license": "MIT",
-  "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-all-tasks": "^1.1.4",
-    "gulp-util": "^3.0.8",
-    "opn": "^5.5.0"
-  },
-  "scripts": {
-    "serve": "mkdocs serve --dev-addr=127.0.0.1:8004"
+    "name": "time-savers",
+    "version": "2.6.7",
+    "repository": "github.com/luminous-software/time-savers",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-all-tasks": "^1.1.4",
+        "gulp-util": "^3.0.8",
+        "opn": "^5.5.0"
+      },
+    "scripts": {
+        "serve": "mkdocs serve --dev-addr=127.0.0.1:8004"
+      }
   }
-}
